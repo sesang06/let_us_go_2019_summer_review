@@ -200,9 +200,9 @@ extension NoteDetailViewController: VNDocumentCameraViewControllerDelegate {
 유저가 자유롭게 캔버스에 메모할 수 있는 기능도 구현이 간편합니다.
 
 ```
- let picker = PKToolPicker.shared(for: window)
-    picker?.addObserver(canvasView)
-    picker?.setVisible(true, forFirstResponder: canvasView)
+let picker = PKToolPicker.shared(for: window)
+picker?.addObserver(canvasView)
+picker?.setVisible(true, forFirstResponder: canvasView)
 ```
 
 다크 모드를 지원하기 위해서 백그라운드 컬러를 흰 색이 아니라 이렇게 설정해주면 됩니다.
@@ -235,16 +235,15 @@ https://github.com/giftbott/CardStyleLifecycle
 
 문자 의미의 개발적 App Cycle에서는 iOS 13에서 뷰콘트롤러의 세로 모드 모달 프리젠트 방식이 기본적 pageSheet 으로 바뀌었다는 점이 흥미롭습니다.
 
- pageSheet 방식은 사용자가 드래그해서 dismiss 시킬 수 있습니다. 그에 따라서 
+ pageSheet 방식은 사용자가 드래그해서 dismiss 시킬 수 있습니다. 그에 따라서 아래의 델리게이트 메소드가 추가되었습니다. 
 
 ```
- func presentationControllerWillDismiss(_ presentationController: UIPresentationController) {
-  }
-  func presentationControllerDidDismiss(_ presentationController: UIPresentationController) {
-  }
+func presentationControllerWillDismiss(_ presentationController: UIPresentationController) {
+}
+func presentationControllerDidDismiss(_ presentationController: UIPresentationController) {
+}
 ```
 
-델리게이트 메소드가 추가되었습니다. 
 
 
 
