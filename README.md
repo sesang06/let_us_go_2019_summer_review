@@ -221,7 +221,11 @@ self.view.backgroundColor = .secondarySystemBackground
 
 https://github.com/intmain/DismissDisposable
 
-엉덩숭아(오진성) 님은 Let's Swift 2018 세미나에서 'RxSwift Internal' 세션을 발표하신 적이 있습니다.https://www.youtube.com/watch?v=DsE-sagI04A 해당 세션에서는 `Observable` 의 내부 로직을 다루었다면, 이번 세션에서는 Disposable 의 내부 로직을 다루었습니다. **RxSwift Internal** 은 **3부작 대서사시** 로 구성하셨고, 언젠가 있을 3부는 `shared` 에 관한 것으로 구성하실 생각이라고 합니다. DisposeBag의 구현을 코드 레벨로 로우하게 설명하셨습니다만... RxSwift의 내부 로직에 대해 이해도가 적은 탓에 잘 이해는 가지 않았습니다. 
+엉덩숭아(오진성) 님은 Let's Swift 2018 세미나에서 'RxSwift Internal' 세션을 발표하신 적이 있습니다.
+
+https://www.youtube.com/watch?v=DsE-sagI04A 
+
+해당 세션에서는 `Observable` 의 내부 로직을 다루었다면, 이번 세션에서는 Disposable 의 내부 로직을 다루었습니다. **RxSwift Internal** 은 **3부작 대서사시** 로 구성하셨고, 언젠가 있을 3부는 `shared` 에 관한 것으로 구성하실 생각이라고 합니다. DisposeBag의 구현을 코드 레벨로 로우하게 설명하셨습니다만... RxSwift의 내부 로직에 대해 이해도가 적은 탓에 잘 이해는 가지 않았습니다. 
 
 ## App LifeCycle
 
