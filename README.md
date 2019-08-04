@@ -342,47 +342,49 @@ https://zeddios.tistory.com/43
 
 
 
-## StringInterpolation과 SwiftUI 
+### StringInterpolation과 SwiftUI 
 
-### 발표자 민소네 - https://github.com/minsone
+#### 발표자 민소네 - https://github.com/minsone
 
 https://www.slideshare.net/MinM9510/letusgo-2019-summer-stringinterpolation-and-swiftui
 
 
 
-## ARKit 3 톺아보기
+### ARKit 3 톺아보기
 
-### 발표자 김형중
+#### 발표자 김형중
 
 
 
-## iOS 프리랜서로 산다는 것
+### iOS 프리랜서로 산다는 것
 
-### 발표자 클린트 - https://github.com/ClintJang/
+#### 발표자 클린트 - https://github.com/ClintJang/
 
 https://github.com/ClintJang/awesome-freelance-korea-information
 
 
 
-## 그래요 저 비전공 개발자에요..
+### 그래요 저 비전공 개발자에요..
 
-### 발표자 Yo!
-
-
-
-## What's new in Xcode / iOS13
-
-### 발표자 재르시 - https://github.com/JeaSungLEE
+#### 발표자 Yo!
 
 
 
-## WWDC Cheatsheet
+### What's new in Xcode / iOS13
 
-### 발표자 최완복 - https://www.slideshare.net/imyostarr/presentations
+#### 발표자 재르시 - https://github.com/JeaSungLEE
 
 
 
-## 상품 추첨의 시간 - 도박은 늘 짜릿해
+### WWDC Cheatsheet
+
+#### 발표자 최완복 - https://www.slideshare.net/imyostarr/presentations
+
+
+
+## 상품 추첨의 시간
+
+### 도박은 늘 짜릿해
 
 사행심을 불러일으킬만한 시간이었습니다. 150명의 참석자 중에 8명을 추첨해서 경품을 지급했습니다. 상품은 **에어팟, 매직마우스, 트랙패드**를 포함한 초고가의 상품들이었습니다. 5%를 넘는 상황이라서 당첨될만도 한데, 놀랍게도 당첨이 되지 않았습니다. 
 
