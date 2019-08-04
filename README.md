@@ -272,7 +272,6 @@ func presentationControllerDidDismiss(_ presentationController: UIPresentationCo
 ```
 2019-08-04 13:10:41.097570+0900 CardStyleLifecycle[11491:1116753] [Main] viewWillAppear
 2019-08-04 13:10:41.154884+0900 CardStyleLifecycle[11491:1116753] [Main] viewDidAppear
-
 2019-08-04 13:10:43.128111+0900 CardStyleLifecycle[11491:1116753] [Main] viewWillDisappear
 2019-08-04 13:10:43.158019+0900 CardStyleLifecycle[11491:1116753] [Setting] viewWillAppear
 2019-08-04 13:10:43.666209+0900 CardStyleLifecycle[11491:1116753] [Setting] viewDidAppear
@@ -303,8 +302,8 @@ https://developer.apple.com/documentation/uikit/uimodalpresentationstyle/automat
 가 개인적으로 궁금해져서 실험해 보았습니다.
 
 ```
-
 [automatic 세로로 출력후, 그 화면에서 가로로 변환 뒤 페이지 종료]
+
 2019-08-04 13:15:15.883388+0900 CardStyleLifecycle[11491:1116753] [Setting] viewWillAppear
 2019-08-04 13:15:16.481851+0900 CardStyleLifecycle[11491:1116753] [Setting] viewDidAppear
 2019-08-04 13:15:20.893848+0900 CardStyleLifecycle[11491:1116753] [Setting] viewWillDisappear
@@ -351,10 +350,15 @@ https://zeddios.tistory.com/43
 https://www.slideshare.net/MinM9510/letusgo-2019-summer-stringinterpolation-and-swiftui
 
 
+### 인디 앱 수입으로 월세 내기
+
+#### 발표자 미정 - https://github.com/MijeongJeon
+
+
 
 ### ARKit 3 톺아보기
 
-#### 발표자 김형중
+#### 발표자 김형중 - https://github.com/clsoft
 
 
 
